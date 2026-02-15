@@ -1,0 +1,52 @@
+grep - global search for a regular expression and print out
+su - super user
+sudo - super user do 
+ls - list of the directory contents
+cat - to view the file contents
+nano/vi/vim - text editors
+pwd - print working directory
+cd - change directory
+head - to display the header lines in the file
+tail - to display the last lines in the file 
+touch - to create the file
+mkdir - to create the directory
+rm - to remove the file or directory
+rmdir - to remove the directory
+adduser - to add a new user
+usermod - to modify the user
+userdel - to delete the user
+users - to display the users
+groups - to display the groups 
+chmod - to change the file permissions
+hostname - to display the hostname
+sort - to sort the contents in the file 
+uniq - to display the unique contents in the file
+wc - to display the word count in the file
+apt or apt-get - to install or uninstall anything
+ping - to display the IP address of any network, like Google
+ifconfig - to display all the info about the system, like IP address and netmask
+
+sudo apt install -to install anything
+sudo apt remove - to remove anything
+sudo apt search - to search the anything
+sudo apt autoremove 
+sudo apt update - for update purpose
+sudo apt upgrade - for upgrade purpose
+tee or (>) - to copy the data from one file to another file
+
+df - disk free
+du - estimate the total file space usage
+free - Display amount of free and used memory in the system
+
+shell scripting:
+
+echo - for print purpose
+read - to take the input from the user(-p -> paragraph, -a -> array)
+
+variables:
+1. system variables eg: PWD, LS, SUDO, etc.,
+2. user-defined variables eg: x=10,y=29
+comments:
+# - single line comment
+
+
